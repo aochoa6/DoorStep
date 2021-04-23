@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369154386223",
+    "project_id": "doorstep-33d81",
+    "storage_bucket": "doorstep-33d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369154386223:android:dc307cf0f213ebdb2d99da",
+        "android_client_info": {
+          "package_name": "com.example.doorstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369154386223-jv8nb228g7tbcj7mqs0ce0fpn9g5b99k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumjEz0L1jcCsPpWnpqIpSRMCpOFXHaKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369154386223-jv8nb228g7tbcj7mqs0ce0fpn9g5b99k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
